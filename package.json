@@ -1,0 +1,19 @@
+{
+  "name": "maier3d",
+  "version": "0.0.0",
+  "description": "maier 3d web",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node index.js",
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Dominguez Martin",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
